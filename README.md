@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Parth+Shrivastava+%3B+I'm+20+years+old%3BI'm+from+India%3BBe+Welcome%21+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Anshuman+Sharma+%3B+I'm+20+years+old%3BI'm+from+India%3BBe+Welcome%21+%3A%29)](https://git.io/typing-svg)
 
 ### <picture><img src ="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width = 30px></picture> *Languages and Tools🧰*
 <p align="center">
@@ -23,15 +23,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" align="right">
 
 
-- 🎓 High school student, book writer, tech programmer.
-- 💻 Passionate about writing romantic books and programming.
+- 💻 Passionate about programming.
 - 🧠 Constantly seeking growth and improvement.
 - 📚 Believer in the power of god and smart work.
 
 ### 📊 Stats
-![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anshumans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&rank_icon=percentile\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Anshumans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&rank_icon=percentile\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 
 
@@ -39,14 +38,14 @@
 
 
 
-[![Vishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwas567917&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anshuman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwas567917&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas567917&theme=radical)](https://git.io/streak-stats)
 
 [![An image of @vishwas567917's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwas567917)](https://holopin.io/@vishwas567917)
 
 
-![Parth Shrivastava's Leetcode Stats](https://leetcard.jacoblin.cool/Rockey19?theme=unicorn)
+![Anshuman Sharma's Leetcode Stats](https://leetcard.jacoblin.cool/Rockey19?theme=unicorn)
 
 
 <p align="center">
